@@ -7,6 +7,6 @@ public class Main {
      if (VozvrasCheloveka)
         System.out.println("Вы ходите в школу");
         else {
-        System.out.println("Вы учитесь в университете"); }
+        System.out.println("Вы учитесь В университете"); }
     }
 } //Не поняла как добавить третье условие для HumanAge >=24   System.out.println("вам пора на работу");
