@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!"); {
     }
-    int HumanAges = 7;
+    int HumanAges = 8;
     if (HumanAges >=18) {
         System.out.print("Вы достигли совершеннолетия,Поздравляем!");
     }
